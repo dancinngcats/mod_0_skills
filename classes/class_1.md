@@ -3,7 +3,7 @@ Class: Menu
 Attributes:
 name (string): Denver Bisquit Company - Our Menu
 number_of_items (integer): 15
-section (array): [appetizers, lunch, dinner, brunch, desserts, drinks, kids]
+section (array): ["appetizers", "lunch", "dinner", "brunch", "desserts", "drinks", "kids"]
 last_updade (timeanddate): 5/17/2020
 images (boolean): true/false
 
