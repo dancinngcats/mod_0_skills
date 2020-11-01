@@ -1,0 +1,13 @@
+food = "pasta"
+is_delicious = true
+
+food = "tomato"
+num2 = 3
+num7 = 16
+
+quotient = num7 / num2
+
+songs = ["Monsters", "She", "Yuppie"]
+songs.shift
+
+food.length
