@@ -12,3 +12,4 @@ Methods:
 * add_photos (reassigns the value of attribute images)
 * remove_kids_menu (changes value of the attribute number_of_items, changes value of the last_update, and removes one item from the array section)
 * change_heading (changes value of the heading)
+* remove_typos (changes the value of the last_update)
