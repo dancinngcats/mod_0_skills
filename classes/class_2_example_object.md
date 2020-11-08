@@ -1,15 +1,16 @@
-Class Instance: Server Mary
+Class: Server
+Instance: Server Mary Poppins
 
 Attributes:
-name (string): "Mary"
-years_of_experience (integer): 3
-hiring_date (dateandtime): 11/1/2017
-skills (array): ["politeness", "natural curiosity", "ability to work in a fast-paced environment"]
-pink_hair (boolean): true
-available_on_weekends(boolean): false
+* nickname (string) = "Mary"
+* years_of_experience (integer) = 3
+* hiring_date (datetime) = 11/1/2017
+* skills (array) = ["politeness", "natural curiosity", "ability to work in a fast-paced environment"]
+* pink_hair (boolean) = true
+* available_on_weekends (boolean) = false
 
 Methods:
-teach_bartending (adds value to the array skills): ["politeness", "natural curiosity", "ability to work in a fast-paced environment", "bartending"]
-send_home_to_dye_hair_black (reassigns the value pink_hair: false)
-change_weekend_availability (reassigns the value available_on_weekends: true)
-change_name (changes the string value of a name to "Maria")
+* learn_bartending (adds value to the array skills) = ["politeness", "natural curiosity", "ability to work in a fast-paced environment", "bartending"]
+* dye_hair_black (reassigns the value pink_hair) pink_hair = false
+* change_weekend_availability (reassigns the value available_on_weekends) available_on_weekends = true
+* change_nickname (changes the string value of a nickname): nickname = "Maria"
